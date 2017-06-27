@@ -12,7 +12,9 @@ cd `project`
 vi .env
 ```
 ```
+#########
 PORT=8080
+#########
 ```
 ```
 npm start
